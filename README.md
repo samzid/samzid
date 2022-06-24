@@ -79,4 +79,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=samzid">
 </a>
-<a href="https://github.com/samzid?tab=followers"><img src="https://img.shields.io/github/followers/nilay-code?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/samzid?tab=followers"><img src="https://img.shields.io/github/followers/samzid?label=Followers&style=social" alt="GitHub Badge"></a>
