@@ -32,7 +32,6 @@
 </p>
 
 ---
-
 ## ⚙️ Tools & IDEs  
 
 <p align="center"> 
@@ -40,9 +39,10 @@
   <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
   <img src="https://img.icons8.com/glyph-neue/48/github.png" title="GitHub"/>
   <img src="https://img.icons8.com/dusk/48/postman-api.png" title="Postman"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/composer.png" title="Composer"/>
+  <img src="https://getcomposer.org/img/logo-composer-transparent.png" width="48" height="48" title="Composer"/>
   <img src="https://img.icons8.com/color/48/intellij-idea.png" title="IntelliJ IDEA"/>
 </p>
+
 
 ---
 
@@ -84,3 +84,4 @@
   <img src="https://komarev.com/ghpvc/?username=samzid" alt="Profile Views"/>
   <a href="https://github.com/samzid?tab=followers"><img src="https://img.shields.io/github/followers/samzid?label=Followers&style=social" alt="GitHub Followers"/></a>
 </p>
+
