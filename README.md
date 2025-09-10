@@ -1,51 +1,84 @@
-# 👋 Hey there, I'm Samzid Khan
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-💻 **Laravel Developer | PHP Enthusiast | Clean Code Lover**  
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Samzid Khan</h1>
+<h3 align="center">I'm a passionate Software Developer and Programmer.</h3>
 
-A passionate problem-solver from Dhaka, Bangladesh crafting modern, scalable web applications with Laravel and PHP.
 
----
+## 🙋‍♂️ About Me
 
-##  About Me  
-- 🔭 Currently building: Laravel-based web apps & REST APIs  
-- 🌱 Exploring: Advanced Laravel, Laravel Livewire, Vue.js  
-- 👯 Open to collaborate on: Laravel projects, Open Source  
-- 💬 Ask me about: PHP, Laravel, Blade, Eloquent, APIs  
-- 📫 Reach me: [samzid.email@example.com] (Replace with your email)  
+- 🔭 I’m currently  **a Final year student in the Computer Science Program**
 
----
+- 🌱 I’m currently  **learning everything 🤣**
 
-##  Tech Stack  
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
-### Backend  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+- 📫 How to reach me **mdsamjidkhan8@gmail.com**
 
-### Frontend  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+- ⚡ Fun fact **I am coding lover .**
 
-### Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Composer](https://img.shields.io/badge/Composer-885630?style=flat&logo=composer&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
+## 🚀 Languages:
 
----
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sql.png"/> </a>
+    <a href="https://www.w3schools.in/c-tutorial/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a href="https://www.w3schools.com/CPP/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> 
+    <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+</p>
 
-##  GitHub Stats  
-![Samzid's GitHub stats](https://github-readme-stats.vercel.app/api?username=samzid&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samzid&layout=compact&theme=radical)  
+## 👨‍💻 IDE and Code Editors:
 
----
+<p align="left"> 
+    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> </a> 
+    <a style="padding-right:8px;" href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/> </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.png" width="40" 
+     height="40"/> </a> 
+    <a href="https://www.jetbrains.com/clion/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.png" width="40" 
+     height="40"/> </a> 
+    <a href="https://www.jetbrains.com/datagrip/" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/DataGrip_icon.png" width="40" 
+     height="40"/> </a> 
+</p>
+<br/>
 
-##  Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/samzid-khan-41a25917b)  
-- [Portfolio](https://your-portfolio-link.com)  
-- [Twitter](https://twitter.com/samjid_khan)  
+<p align="center">
+    <a href="https://github.com/samzid/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="samzid" src="https://github-readme-streak-stats.herokuapp.com/?user=samzid&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
----
+## 📊 My Github Stats
 
-⭐ *Thanks for visiting my GitHub profile!*  
+  <br/>
+    <a href="https://github.com/samzid/github-readme-stats"><img alt="Samzid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=samzid&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/samzid/github-readme-stats"><img alt="Samzid's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samzid&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/samzid/github-readme-activity-graph"><img alt="Samzid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samzid&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/md-samzid-khan-41a25917b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/samjid_khan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/mdsamjidkhan8/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=samzid">
+</a>
+<a href="https://github.com/samzid?tab=followers"><img src="https://img.shields.io/github/followers/samzid?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
